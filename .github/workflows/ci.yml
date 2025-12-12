@@ -62,10 +62,6 @@ jobs:
       - name: Run PHPStan (Static Analysis)
         run: make phpstan
 
-      - name: Tear Down Docker Environment
-        if: always()
-        run: make stop
-
       - name: Clean up Docker resources
         if: always()
         run: make remove
