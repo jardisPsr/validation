@@ -1,6 +1,6 @@
 # JardisPsr Validation
 
-![Build Status](https://github.com/jardisCore/validation/actions/workflows/ci.yml/badge.svg)
+![Build Status](https://github.com/jardisPsr/validation/actions/workflows/ci.yml/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PHP Version](https://img.shields.io/badge/php-%3E%3D8.2-blue.svg)](https://www.php.net/)
 [![PHPStan Level](https://img.shields.io/badge/PHPStan-Level%208-success.svg)](phpstan.neon)
